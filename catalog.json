@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "email": "23f3002272@ds.study.iitm.ac.in",
+    "version": "4fac9158"
+  },
+  "products": [
+    {"id": "prod-4fac9158-001", "name": "Standard Item 1", "category": "home", "price": 205.38, "stock": 132, "rating": 3.3},
+    {"id": "prod-4fac9158-002", "name": "Pro Item 2", "category": "home", "price": 390.72, "stock": 58, "rating": 3.2},
+    {"id": "prod-4fac9158-003", "name": "Pro Item 3", "category": "electronics", "price": 394.31, "stock": 122, "rating": 4.7},
+    {"id": "prod-4fac9158-004", "name": "Elite Item 4", "category": "electronics", "price": 58.81, "stock": 33, "rating": 1.9},
+    {"id": "prod-4fac9158-005", "name": "Basic Item 5", "category": "sports", "price": 56.55, "stock": 152, "rating": 1.6},
+    {"id": "prod-4fac9158-006", "name": "Standard Item 6", "category": "books", "price": 227.69, "stock": 130, "rating": 2.6},
+    {"id": "prod-4fac9158-007", "name": "Pro Item 7", "category": "home", "price": 321.13, "stock": 146, "rating": 1.6},
+    {"id": "prod-4fac9158-008", "name": "Premium Item 8", "category": "electronics", "price": 89.25, "stock": 13, "rating": 1.8},
+    {"id": "prod-4fac9158-009", "name": "Standard Item 9", "category": "home", "price": 106.24, "stock": 35, "rating": 3.8},
+    {"id": "prod-4fac9158-010", "name": "Standard Item 10", "category": "electronics", "price": 70.58, "stock": 176, "rating": 3.6},
+    {"id": "prod-4fac9158-011", "name": "Premium Item 11", "category": "electronics", "price": 33.91, "stock": 167, "rating": 2.7},
+    {"id": "prod-4fac9158-012", "name": "Standard Item 12", "category": "clothing", "price": 375.29, "stock": 38, "rating": 3.6},
+    {"id": "prod-4fac9158-013", "name": "Elite Item 13", "category": "sports", "price": 341.21, "stock": 175, "rating": 2.5},
+    {"id": "prod-4fac9158-014", "name": "Pro Item 14", "category": "clothing", "price": 408.46, "stock": 131, "rating": 2.4},
+    {"id": "prod-4fac9158-015", "name": "Standard Item 15", "category": "electronics", "price": 359.07, "stock": 167, "rating": 1.2},
+    {"id": "prod-4fac9158-016", "name": "Pro Item 16", "category": "home", "price": 441.19, "stock": 50, "rating": 4.2},
+    {"id": "prod-4fac9158-017", "name": "Standard Item 17", "category": "books", "price": 164.92, "stock": 89, "rating": 2.8},
+    {"id": "prod-4fac9158-018", "name": "Premium Item 18", "category": "electronics", "price": 428.65, "stock": 199, "rating": 1.8}
+  ],
+  "aggregations": {
+    "home": {
+      "count": 5,
+      "inventoryValue": 122434.80
+    }
+  }
+}
