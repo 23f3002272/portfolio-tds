@@ -1,0 +1,16 @@
+name: Hello Action  # Workflow name (shows in Actions tab)
+
+on: [push]  # Triggers on code pushes
+
+jobs:
+  test:
+    runs-on: ubuntu-latest  # Free runner (virtual kitchen)
+    steps:
+      - name: Checkout code  # Step 1: Grab your repo files
+        uses: actions/checkout@v4  # Reusable action from GitHub
+
+      - name: 23f3002272@ds.study.iitm.ac.in  # Your required step!
+        run: echo "Hello from Achintya's action!"  # Simple command
+
+      - name: List files  # Bonus step: See what's in repo
+        run: ls -la
