@@ -24,9 +24,25 @@
     {"id": "prod-4fac9158-018", "name": "Premium Item 18", "category": "electronics", "price": 428.65, "stock": 199, "rating": 1.8}
   ],
   "aggregations": {
-    "home": {
-      "count": 5,
-      "inventoryValue": 122434.80
-    }
+  "home": {
+    "count": 5,
+    "inventoryValue": 122434.80
+  },
+  "electronics": {
+    "count": 7,
+    "inventoryValue": 214557.89
+  },
+  "sports": {
+    "count": 2,
+    "inventoryValue": 68307.35
+  },
+  "books": {
+    "count": 2,
+    "inventoryValue": 44277.58
+  },
+  "clothing": {
+    "count": 2,
+    "inventoryValue": 67769.28
   }
+}
 }
